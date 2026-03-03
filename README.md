@@ -292,9 +292,6 @@ Contributions are welcome! Here's how you can help:
 - Add voice input/output capabilities
 - Multi-language support
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
